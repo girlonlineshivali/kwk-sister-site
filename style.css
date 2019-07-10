@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+div {
+  background-color: #F0F8FF;
+  border: 10px #FFFFFF;
+  border-radius: 25px
+}
+seconddiv {
+  padding: 5;
+}
+img {
+  object-fit: cover;
+}
+.size {
+  width: 175px;
+  height: 175px;
+  object-fit: cover;
+}
